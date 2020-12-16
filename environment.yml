@@ -1,9 +1,9 @@
-name: libomm
+name: example-environment
 channels:
-	- conda-forge
+  - conda-forge
 dependencies:
-	-python==3.8
-	-pip
-	-pip:
-		- pyomexmeta==1.1.24
-		- python-libcombine
+  - python==3.8
+  - pip
+  - pip:
+    - pyomexmeta==1.1.24
+    - python-libcombine

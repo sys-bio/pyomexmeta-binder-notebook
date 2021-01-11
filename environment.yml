@@ -5,5 +5,5 @@ dependencies:
   - python==3.8
   - pip
   - pip:
-    - pyomexmeta==1.2.0
+    - pyomexmeta==1.2.2
     - python-libcombine

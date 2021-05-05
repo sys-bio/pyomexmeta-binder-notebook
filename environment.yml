@@ -6,4 +6,3 @@ dependencies:
   - pip
   - pip:
     - pyomexmeta==1.2.7
-    - python-libcombine

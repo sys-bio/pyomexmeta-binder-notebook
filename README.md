@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nickerso/pyomexmeta-binder-notebook/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sys-bio/pyomexmeta-binder-notebook/HEAD)
 
 # pyomexmeta Demonstration Notebook
 
@@ -9,7 +9,7 @@ libOmexMeta can be found at: https://github.com/sys-bio/libOmexMeta
 
 ## Running the notebook
 
-You can access a live version of this notebook via the launch binder badge above or by following this [direct link](https://mybinder.org/v2/gh/nickerso/pyomexmeta-binder-notebook/HEAD).
+You can access a live version of this notebook via the launch binder badge above or by following this [direct link](https://mybinder.org/v2/gh/sys-bio/pyomexmeta-binder-notebook/HEAD).
 
 Alternatively, you can grab a copy of this repository locally and access the notebook with commands similar to these:
 

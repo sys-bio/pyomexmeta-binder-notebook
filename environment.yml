@@ -5,4 +5,4 @@ dependencies:
   - python==3.12
   - pip
   - pip:
-    - pyomexmeta==1.2.14
+    - pyomexmeta==1.2.14.1
